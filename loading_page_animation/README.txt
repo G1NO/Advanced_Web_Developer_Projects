@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/Colt/pen/BwOJWd.
-
+Here's a loading icon I built usinng Animated CSS
  
